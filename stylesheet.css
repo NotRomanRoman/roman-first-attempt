@@ -1,0 +1,20 @@
+.button {
+    /* box-align: center; */
+    /* display: inline-block; */
+    border: 1px solid firebrick;
+    margin: 350px auto auto auto;
+    width: 60px;
+    text-align: center;
+    display: block;
+}
+.button:hover {
+    background: firebrick;
+}
+a:hover {
+    color: white;
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color: firebrick;
+}
